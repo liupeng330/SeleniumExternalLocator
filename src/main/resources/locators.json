@@ -1,0 +1,14 @@
+[
+  {
+    "pageName": "BaiduPage",
+    "elementName": "textBoxSearch",
+    "locateUsing": "id",
+    "locator": "kw"
+  },
+  {
+    "pageName": "BaiduPage",
+    "elementName": "buttonSearch",
+    "locateUsing": "xpath",
+    "locator": "//*[@id='su']"
+  }
+]
